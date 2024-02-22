@@ -1,0 +1,17 @@
+"sex": (
+  "the patient's sex is female",
+  "the patient's sex is male"
+  )
+"age": (
+  "the patient's age is over 80",
+  "the patient's age is between 60 and 80",
+  "the patient's age is between 40 and 60",
+  "the patient's age is between 18 and 40",
+  "the patient's age is under 18"
+  )
+"ethnicity": (
+  "the patient's ethnicity is White",
+  "the patient's ethnicity is Black",
+  "the patient's ethnicity is Asian",
+  "the patient's ethnicity is neither White, Black, nor Asian"
+  )

@@ -1,0 +1,4 @@
+# Download model checkpoints in the 'checkpoints' folder
+__pycache__/
+*/
+!.gitignore

@@ -1,0 +1,17 @@
+"sex": (
+  "Female",
+  "Male"
+  )
+"age": (
+  "age over 80",
+  "age between 60 and 80",
+  "age between 40 and 60",
+  "age between 18 and 40",
+  "age under 18"
+  )
+"ethnicity": (
+  "White",
+  "Black",
+  "Asian",
+  "not White, Black, or Asian"
+  )
